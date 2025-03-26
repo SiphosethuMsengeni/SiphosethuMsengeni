@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SiphosethuMsengeni I am 20 years old Female.
+
 - 👀 I’m interested in coding mostly HTML,Java,python and Block Chain
 - 🌱 I’m currently studying at CPUT 
 - 💞️ I’m looking to collaborate on 
